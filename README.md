@@ -3,7 +3,7 @@
 
 Submitted by: **Abhash Niroula**
 
-**Background Changer** is an app that changes the background color when the button on the app is clicked. 
+**Background Glower** is an app that changes the background color when the button on the app is clicked. 
 
 Time spent: **3** hours spent in total
 
