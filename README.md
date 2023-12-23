@@ -3,22 +3,17 @@
 
 Submitted by: **Abhash Niroula**
 
-**Name of your app** is an app that... [TODO] 
+**Background Changer** is an app that changes the background color when the button on the app is clicked. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
