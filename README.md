@@ -17,13 +17,13 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Firstly, I never had experience with Swift before. So, navigating and finding the actual icon or functionality was slow.  
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Abhash Niroula]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
