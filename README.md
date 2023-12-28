@@ -24,6 +24,12 @@ Firstly, I never had experience with Swift before. So, navigating and finding th
 
 ## App Brainstorming
 
+1) App 1
+   - [ ] Users see a screen with three labels and a button
+   - [ ] Tapping the button changes the screen color to a random color
+
+2) 
+ 
 ## License
 
     Copyright [2023] [Abhash Niroula]
