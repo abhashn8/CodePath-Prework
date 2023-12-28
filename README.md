@@ -21,6 +21,9 @@ The following **required** functionality is completed:
 ## Notes
 
 Firstly, I never had experience with Swift before. So, navigating and finding the actual icon or functionality was slow.  
+
+## App Brainstorming
+
 ## License
 
     Copyright [2023] [Abhash Niroula]
