@@ -29,17 +29,17 @@ The following **required** functionality is completed:
 
 3) #### Uber
    - [ ] I like the opening of the app with two vertical lines going sideways like a "GRAND OPENING".
-   - [ ] When a specific location is selected there is a black line that connects the destination. And a straight flow of white occurs through the line that makes the movement look smooth. 
+   - [ ] When a specific location is selected there is a black line that connects the destination. A straight flow of white occurs through the line that makes the movement look smooth. 
 
 ### Idea
 
-I'm developing an app that revolves around athletes' nutritional needs. Users can choose their specific sport, input their weight and height, and the app will provide personalized recommendations for the required nutrients.
+I'm thinking of an app that revolves around athletes' nutritional needs. Users can choose their specific sport, and input their weight and height, and the app will provide personalized recommendations for the required nutrients.
 It's a tailored approach to help athletes optimize their performance and support their bodies based on their unique physical characteristics and chosen sport.
 
 
 ## Notes
 
-Firstly, I never had experience with Swift before. So, navigating and finding the actual icon or functionality was slow.  
+Firstly, I never had experience with Swift before. So, navigating and finding the actual icon or functionality was slow for me.  
 
  
 ## License
