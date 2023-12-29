@@ -17,18 +17,30 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+### Favourite Features
+ 
+1) #### Duolingo 
+   - [ ] I like how the color of the unit tab changes when the units are changed by scrolling down.
+   - [ ] I also love the 3D icons there are and also the in-motion icons.
+
+2) #### Snapchat
+   - [ ] The map section looks so cool with the account's avatar on it.
+   - [ ] When we come out of one's snap(when the snap is dragged slowly), it will eventually turn the snap frame into a circle while it ends.
+
+3) #### Uber
+   - [ ] I like the opening of the app with two vertical lines going sideways like a "GRAND OPENING".
+   - [ ] When a specific location is selected there is a black line that connects the destination. And a straight flow of white occurs through the line that makes the movement look smooth. 
+
+### Idea
+
+I'm developing an app that revolves around athletes' nutritional needs. Users can choose their specific sport, input their weight and height, and the app will provide personalized recommendations for the required nutrients.
+It's a tailored approach to help athletes optimize their performance and support their bodies based on their unique physical characteristics and chosen sport.
+
 
 ## Notes
 
 Firstly, I never had experience with Swift before. So, navigating and finding the actual icon or functionality was slow.  
 
-## App Brainstorming
-
-1) App 1
-   - [ ] Users see a screen with three labels and a button
-   - [ ] Tapping the button changes the screen color to a random color
-
-2) 
  
 ## License
 
