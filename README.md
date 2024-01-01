@@ -11,8 +11,8 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+-  Users see a screen with three labels and a button
+-  Tapping the button changes the screen color to a random color
  
 
 ## App Brainstorming (Step 4)
@@ -20,16 +20,16 @@ The following **required** functionality is completed:
 ### Favourite Features
  
 1) #### Duolingo 
-   - [ ] I like how the color of the unit tab changes when the units are changed by scrolling down.
-   - [ ] I also love the 3D icons there are and also the in-motion icons.
+   - I like how the color of the unit tab changes when the units are changed by scrolling down.
+   - I also love the 3D icons there are and also the in-motion icons.
 
 2) #### Snapchat
-   - [ ] The map section looks so cool with the account's avatar on it.
-   - [ ] When we come out of one's snap(when the snap is dragged slowly), it will eventually turn the snap frame into a circle while it ends.
+   - The map section looks so cool with the account's avatar on it.
+   - When we come out of one's snap(when the snap is dragged slowly), it will eventually turn the snap frame into a circle while it ends.
 
 3) #### Uber
-   - [ ] I like the opening of the app with two vertical lines going sideways like a "GRAND OPENING".
-   - [ ] When a specific location is selected there is a black line that connects the destination. A straight flow of white occurs through the line that makes the movement look smooth. 
+   - I like the opening of the app with two vertical lines going sideways like a "GRAND OPENING".
+   - When a specific location is selected there is a black line that connects the destination. A straight flow of white occurs through the line that makes the movement look smooth. 
 
 ### Idea
 
