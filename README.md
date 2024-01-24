@@ -46,6 +46,7 @@ It's a tailored approach to help athletes optimize their performance and support
 
 Firstly, I never had experience with Swift before. So, navigating and finding the actual icon or functionality was slow for me.  
 
+
 ## License
 
     Copyright [2023] [Abhash Niroula]
