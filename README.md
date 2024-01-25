@@ -12,6 +12,7 @@ Time spent: **3** hours spent in total
 The following **required** functionality is completed:
 
 
+
 - [X] Users see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
       
