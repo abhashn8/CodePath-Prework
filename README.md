@@ -43,6 +43,7 @@ I'm thinking of an app that revolves around athletes' nutritional needs. Users c
 It's a tailored approach to help athletes optimize their performance and support their bodies based on their unique physical characteristics and chosen sport.
 
 
+
 ## Notes
 
 Firstly, I never had experience with Swift before. So, navigating and finding the actual icon or functionality was slow for me.  
