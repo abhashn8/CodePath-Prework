@@ -23,6 +23,7 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+
 ### Favourite Features
  
 1) #### Duolingo 
